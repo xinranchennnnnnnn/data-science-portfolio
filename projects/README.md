@@ -15,11 +15,11 @@ My first project created in GitHub.
 
 1. What do you think input() does?
 
-input() asks the user to enter information and stores what they type.
+input() asks the user to enter something they want to input
 
 2. What do you think print() does?
 
-print() displays information as output.
+print() prints information as output
 
 3. In your own words, what does this program do?
 
@@ -34,7 +34,7 @@ I added a second input and a personalized message that uses the user's answer.
 
 2. How does GitHub show you those changes?
 
-GitHub highlights the lines that were added or changed.
+GitHub highlights the changed lines.
 
 
 
