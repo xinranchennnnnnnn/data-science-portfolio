@@ -15,11 +15,8 @@ This Python program asks the user for their name and displays a personalized gre
 - Markdown
 
 ## What I Learned
+Create files and folders in GitHub and make meaningful commits,
 
-1. What changed between your original and revised program?
-   I added a second input that asks the user for their favorite subject. I also added another personalized message that uses the user's answer.
-2. How does GitHub show you those changes?
-   GitHub shows the differences between the old and new versions by highlighting the lines that were added or changed.
 
 ## Future Improvements
-
+I once learnt to build an interactive art page via github by p5js, but now I have forgotten the skills in detail. I will try to learn that again.
