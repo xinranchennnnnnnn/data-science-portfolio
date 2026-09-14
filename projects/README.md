@@ -56,4 +56,4 @@ I would like to add a data analysis project using Python to analyze the effect o
 
 ## AI Use Statement
 
-I used ChatGPT to help me understand 
+I used ChatGPT to help me understand. I reviewed and completed the work myself.
